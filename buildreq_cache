@@ -1,0 +1,7 @@
+0.7
+pypi(coverage)
+pypi(flake8)
+pypi(mock)
+pypi(nose)
+pypi(pockets)
+pypi(six)
