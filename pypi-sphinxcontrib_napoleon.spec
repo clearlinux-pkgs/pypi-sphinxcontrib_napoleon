@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_napoleon
 Version  : 0.7
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/fa/eb/ad89500f4cee83187596e07f43ad561f293e8e6e96996005c3319653b89f/sphinxcontrib-napoleon-0.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fa/eb/ad89500f4cee83187596e07f43ad561f293e8e6e96996005c3319653b89f/sphinxcontrib-napoleon-0.7.tar.gz
 Summary  : Sphinx "napoleon" extension.
